@@ -1,0 +1,47 @@
+{
+    "name": "angular-jpictura",
+    "version": "0.1.0",
+    "description": "A simple AngularJS 1 library for responsive alignment of images.",
+    "keywords": [
+        "photo",
+        "gallery",
+        "align",
+        "image",
+        "picture",
+        "resize",
+        "angular"
+    ],
+    "license": "MIT",
+    "author": "Anton Marček",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/anmarcek/angular-jpictura.git"
+    },
+    "dependencies": {
+        "angular": ">=1.3.11",
+        "angular-animate": "^1.5.2"
+    },
+    "devDependencies": {
+        "del": "^1.2.1",
+        "gulp": "^3.9.0",
+        "gulp-concat": "^2.4.3",
+        "gulp-cssnano": "^2.1.0",
+        "gulp-less": "^3.0.3",
+        "gulp-load-plugins": "^0.10.0",
+        "gulp-rename": "^1.2.2",
+        "gulp-replace": "^0.5.3",
+        "gulp-uglify": "^1.1.0",
+        "gulp-zip": "^3.1.0"
+    },
+    "bugs": {
+        "url": "https://github.com/anmarcek/angular-jpictura/issues"
+    },
+    "homepage": "https://github.com/anmarcek/angular-jpictura#readme",
+    "main": "dist/angular-jpictura.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "directories": {
+        "test": "test"
+    }
+}
