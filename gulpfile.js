@@ -7,9 +7,8 @@ var paths = {
     root: '.',
     src: {
         js: [
-            'src/js/helpers.js',
-            'src/js/height-calculator.js',
-            'src/js/jpictura.js'
+            'src/js/disclaimer.js',
+            'node_modules/jpictura-core/dist/jpictura-core.js'
         ],
         css: 'src/css',
         less: 'src/css/less/**/*.less'
